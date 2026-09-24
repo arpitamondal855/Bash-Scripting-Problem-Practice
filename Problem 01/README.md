@@ -45,5 +45,5 @@ bash solution.sh
 Department of Computer Science & Engineering  
 Daffodil International University
 
-GitHub: https://github.com/rayhanahmed
+GitHub: https://github.com/arpitamondal855
 > **Note:** The submitted script prints `C+` for 0–39 marks. If the intended grade is Fail, change that branch to `echo "subject $x and grade F"`. The script also assumes the marks entered are numeric.
