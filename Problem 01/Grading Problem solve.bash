@@ -38,7 +38,7 @@ then
     
 elif ((y<=39 && y>=0))
 then
-    echo "subject $x and grade C+"
+    echo "subject $x and grade F"
     
 else
     echo "marks is invalid"
